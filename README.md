@@ -7,3 +7,5 @@ jupyter
 numpy
 pandas
 matplotlib
+
+This branch is for ICD summer-camp 2019 in Yakushima.
